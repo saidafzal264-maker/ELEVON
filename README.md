@@ -8,7 +8,7 @@ Uy va ofislar uchun professional servis xizmatlari.
 - Texnik servis
 
 ## Sayt
-🔗 https://github.com/saidafzal264-maker/ELEVON.git
+🔗 https://saidafzal264-maker.github.io/elevon-servis/
 
 ## Aloqa
 📞 +998 XX XXX XX XX  
